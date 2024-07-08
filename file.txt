@@ -1,3 +1,4 @@
 username1|password1|2024-12-31|3600
 username|password|2025-01-01|7200
 abrissy|admin|2029-01-01|7200
+new|haslo|2100-01-01|10000
